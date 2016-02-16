@@ -1,0 +1,209 @@
+{
+    "channels": [
+        {
+            "is_general": false, 
+            "name": "botdmz", 
+            "is_channel": true, 
+            "created": 1454995036, 
+            "is_member": false, 
+            "is_archived": false, 
+            "creator": "U0LL13TNV", 
+            "topic": {
+                "last_set": 0, 
+                "value": "", 
+                "creator": ""
+            }, 
+            "num_members": 1, 
+            "purpose": {
+                "last_set": 1454995036, 
+                "value": "Bot playground! Have fun, but keep the traffic down so that everyone gets a change to play.", 
+                "creator": "U0LL13TNV"
+            }, 
+            "members": [
+                "U0LL13TNV"
+            ], 
+            "id": "C0LL5MDKN"
+        }, 
+        {
+            "is_general": false, 
+            "name": "data-science", 
+            "is_channel": true, 
+            "created": 1454964999, 
+            "is_member": false, 
+            "is_archived": false, 
+            "creator": "U0LK8BDNH", 
+            "topic": {
+                "last_set": 0, 
+                "value": "", 
+                "creator": ""
+            }, 
+            "num_members": 3, 
+            "purpose": {
+                "last_set": 0, 
+                "value": "", 
+                "creator": ""
+            }, 
+            "members": [
+                "U0LK8BDNH", 
+                "U0LKU36DN", 
+                "U0LL70ESD"
+            ], 
+            "id": "C0LK69DL4"
+        }, 
+        {
+            "is_general": false, 
+            "name": "database-engineering", 
+            "is_channel": true, 
+            "created": 1454964918, 
+            "is_member": false, 
+            "is_archived": false, 
+            "creator": "U0LK8BDNH", 
+            "topic": {
+                "last_set": 0, 
+                "value": "", 
+                "creator": ""
+            }, 
+            "num_members": 4, 
+            "purpose": {
+                "last_set": 0, 
+                "value": "", 
+                "creator": ""
+            }, 
+            "members": [
+                "U0LK8BDNH", 
+                "U0LL39Y13", 
+                "U0LL3Q8N9", 
+                "U0LL3RRPV"
+            ], 
+            "id": "C0LK8PWPP"
+        }, 
+        {
+            "is_general": false, 
+            "name": "dev-ops", 
+            "is_channel": true, 
+            "created": 1454965041, 
+            "is_member": false, 
+            "is_archived": false, 
+            "creator": "U0LK8BDNH", 
+            "topic": {
+                "last_set": 0, 
+                "value": "", 
+                "creator": ""
+            }, 
+            "num_members": 1, 
+            "purpose": {
+                "last_set": 0, 
+                "value": "", 
+                "creator": ""
+            }, 
+            "members": [
+                "U0LK8BDNH"
+            ], 
+            "id": "C0LK9QE3V"
+        }, 
+        {
+            "is_general": true, 
+            "name": "general", 
+            "is_channel": true, 
+            "created": 1454964648, 
+            "is_member": false, 
+            "is_archived": false, 
+            "creator": "U0LK8BDNH", 
+            "topic": {
+                "last_set": 0, 
+                "value": "Company-wide announcements and work-based matters", 
+                "creator": ""
+            }, 
+            "num_members": 16, 
+            "purpose": {
+                "last_set": 0, 
+                "value": "This channel is for team-wide communication and announcements. All team members are in this channel.", 
+                "creator": ""
+            }, 
+            "members": [
+                "U0LK8BDNH", 
+                "U0LKU36DN", 
+                "U0LL13TNV", 
+                "U0LL39Y13", 
+                "U0LL3F6UB", 
+                "U0LL3Q8N9", 
+                "U0LL3RRPV", 
+                "U0LL5K62D", 
+                "U0LL6B5C2", 
+                "U0LL6HP1D", 
+                "U0LL6LXGS", 
+                "U0LL6QSP9", 
+                "U0LL6SGDU", 
+                "U0LL70ESD", 
+                "U0LL7MHL1", 
+                "U0LL8A7HU"
+            ], 
+            "id": "C0LKC47MM"
+        }, 
+        {
+            "is_general": false, 
+            "name": "machine-learning", 
+            "is_channel": true, 
+            "created": 1454964858, 
+            "is_member": false, 
+            "is_archived": false, 
+            "creator": "U0LK8BDNH", 
+            "topic": {
+                "last_set": 0, 
+                "value": "", 
+                "creator": ""
+            }, 
+            "num_members": 2, 
+            "purpose": {
+                "last_set": 0, 
+                "value": "", 
+                "creator": ""
+            }, 
+            "members": [
+                "U0LK8BDNH", 
+                "U0LL13TNV"
+            ], 
+            "id": "C0LKCDT50"
+        }, 
+        {
+            "is_general": false, 
+            "name": "random", 
+            "is_channel": true, 
+            "created": 1454964648, 
+            "is_member": false, 
+            "is_archived": false, 
+            "creator": "U0LK8BDNH", 
+            "topic": {
+                "last_set": 0, 
+                "value": "Non-work banter and water cooler conversation", 
+                "creator": ""
+            }, 
+            "num_members": 16, 
+            "purpose": {
+                "last_set": 0, 
+                "value": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.", 
+                "creator": ""
+            }, 
+            "members": [
+                "U0LK8BDNH", 
+                "U0LKU36DN", 
+                "U0LL13TNV", 
+                "U0LL39Y13", 
+                "U0LL3F6UB", 
+                "U0LL3Q8N9", 
+                "U0LL3RRPV", 
+                "U0LL5K62D", 
+                "U0LL6B5C2", 
+                "U0LL6HP1D", 
+                "U0LL6LXGS", 
+                "U0LL6QSP9", 
+                "U0LL6SGDU", 
+                "U0LL70ESD", 
+                "U0LL7MHL1", 
+                "U0LL8A7HU"
+            ], 
+            "id": "C0LK5N2KW"
+        }
+    ], 
+    "ok": true
+}
